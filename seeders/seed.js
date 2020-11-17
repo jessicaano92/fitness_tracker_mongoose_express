@@ -4,6 +4,7 @@ let db = require("../models");
 mongoose.connect("mongodb://localhost/workout", {
   useNewUrlParser: true,
   useFindAndModify: false
+  //add in from server.js?
 });
 
 let workoutSeed = [
