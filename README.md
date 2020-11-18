@@ -4,6 +4,10 @@
 
 This fitness tracker allows for the user to add either a resistance or cardio workout. In their workout, they are asked to input the duration, sets, reps, and miles of the particular workout they choose. The tracker then stores the information and shows it on a workout dashboard displaying the results on graphs. The graphs include the workout duration in minutes, pounds lifted, and a circle graph of exercises performed or not completed.
 
+## Usage
+
+<img src="https://github.com/jessicaano92/fitness_tracker_mongoose_express/blob/main/public/images/fitnesstracker1.png?raw=true">
+
 ## Credits
 
 Credit goes to my instructor Gary and my tutor Maria for their knowledge and help during this project.
