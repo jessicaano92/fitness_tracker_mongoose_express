@@ -1,4 +1,4 @@
-# fitness_tracker_mongoose_express# 
+# fitness_tracker_mongoose_express
 
 ## Description
 
@@ -7,6 +7,10 @@ This fitness tracker allows for the user to add either a resistance or cardio wo
 ## Usage
 
 <img src="https://github.com/jessicaano92/fitness_tracker_mongoose_express/blob/main/public/images/fitnesstracker1.png?raw=true">
+
+<img src="https://github.com/jessicaano92/fitness_tracker_mongoose_express/blob/main/public/images/fitnesstracker2.png?raw=true">
+
+<img src="https://github.com/jessicaano92/fitness_tracker_mongoose_express/blob/main/public/images/fitnesstracker3.png?raw=true">
 
 ## Credits
 
