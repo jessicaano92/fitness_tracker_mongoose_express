@@ -44,9 +44,16 @@ router.get("/api/workouts/range", (req, res) => {
     .catch(err => {
         res.json(err);
     });
-})
+});
 
-
+router.delete("/api/workouts", (req, res) => {
+    Workout.findByIdAndDelete(req.body.id).then(() => {
+        res.json(true)
+    })
+    .catch(err => {
+        res.json(err);
+    });
+});
 
 
 
