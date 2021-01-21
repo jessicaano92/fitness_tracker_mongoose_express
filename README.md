@@ -19,8 +19,10 @@ Credit goes to my instructor Gary and my tutor Maria for their knowledge and hel
 
 ## Installation
 
-Express, Mongoose, Morgan
+npm i
 
+## Technology used
+Express, Mongoose, Morgan
 
 ## License
 
